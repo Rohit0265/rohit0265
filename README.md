@@ -127,15 +127,6 @@ I'm particularly interested in understanding **how scalable software systems are
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit0265&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit0265&layout=compact&theme=transparent&hide_border=true" height="170"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/rohit-mathur-9a80b2296/)
