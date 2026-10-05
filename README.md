@@ -29,7 +29,7 @@ I build practical, working software — from AI agent backends and realtime coll
 ## 🛠️ Tech Stack
 
 **Languages**
-`JavaScript` `TypeScript` `Java` `Python` `C` `C++` `SQL`
+`JavaScript` `TypeScript` `Python` `C` `C++` `SQL`
 
 **Frontend**
 `React 19` `Next.js` `Vite` `Tailwind CSS` `HTML5` `CSS3` `Redux Toolkit`
