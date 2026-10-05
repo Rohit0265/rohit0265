@@ -180,7 +180,7 @@ What I'm most drawn to is **how scalable systems are designed** — not just whi
 - 🌐 [Portfolio](https://www.myportfolio-rsm.in/)
 - 🧩 [LeetCode](https://leetcode.com/u/rohit026893/)
 - 💻 [GitHub](https://github.com/Rohit0265)
-- 📧 rohit.mathur.95@gmail.com
+- 📧 rohit.mathur.95@outlook.com
 
 ---
 
