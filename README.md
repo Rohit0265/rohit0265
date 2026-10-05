@@ -13,7 +13,7 @@ I build practical, working software — from AI agent backends and realtime coll
 
 ## 🚀 About
 
-- 🎓 B.Tech CSE at **KIET, Ghaziabad** — CGPA **7.5**, batch **2027**
+- 🎓 B.Tech CS at **KIET, Ghaziabad** — CGPA **7.5**, batch **2027**
 - 💻 Strong interest in **backend engineering** and **full-stack product development**
 - 🌐 Builds with **React, Next.js, Node.js, Express, TypeScript**
 - 🗄️ Works with **MongoDB, PostgreSQL, Prisma, Redis**
