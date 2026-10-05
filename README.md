@@ -7,7 +7,7 @@ I build practical, working software — from AI agent backends and realtime coll
 [![Portfolio](https://img.shields.io/badge/Portfolio-myportfolio--rsm.in-2563eb?style=flat-square&logo=google-chrome&logoColor=white)](https://www.myportfolio-rsm.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rohit--mathur-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-mathur-9a80b2296/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-rohit026893-F79F1B?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/rohit026893/)
-[![Email](https://img.shields.io/badge/Email-rohit%40myportfolio--rsm.in-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rohit,mathur.95@outlook.com)
+[![Email](https://img.shields.io/badge/Email-rohit.mathur.95%40outlook.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rohit.mathur.95@outlook.com)
 
 ---
 
