@@ -1,6 +1,6 @@
 # Hi, I'm Rohit Mathur 👋
 
-**B.Tech Computer Science (2027) · Full-Stack / Backend Developer · Problem Solver**
+**B.Tech Computer Science (2027) · Full-Stack / Backend Developer  · Problem Solver**
 
 I build practical, working software — from AI agent backends and realtime collaboration tools to microservices platforms. Currently focused on **DSA, backend engineering, system design and distributed systems**, and looking for **SDE / Software Development internships**.
 
