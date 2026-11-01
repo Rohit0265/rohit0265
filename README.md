@@ -19,7 +19,7 @@ I build practical, working software — from AI agent backends and realtime coll
 - 🗄️ Works with **MongoDB, PostgreSQL, Prisma, Redis**
 - ⚙️ Builds **microservices, event-driven systems and Dockerized backends**
 - 🤖 Integrates **LLMs and agent workflows (LangGraph)** into real products
-- 🧩 Consistent **DSA practice** — Java, C++, Python
+- 🧩 Consistent **DSA practice** — C, C++, Python
 - 🔐 Interest in **web security and vulnerability testing**
 - ☁️ **AWS Cloud** and **Cisco CCNA** certified
 - 📍 Ghaziabad, India · Open to remote and on-site SDE internships
